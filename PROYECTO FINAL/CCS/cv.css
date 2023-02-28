@@ -1,0 +1,44 @@
+body{
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 80%;
+    margin: 0px auto;
+    border: solid 1px blue;
+}
+
+#info{
+    background-color: blue;
+    height: 350px;
+    width: 100%;
+    text-align: center;
+    line-height: 30px;
+    color: aliceblue;
+    padding-top: 10px;
+}
+
+#experiencia{
+    float: left;
+    background-color: aliceblue;
+    width: calc(70% - 20px);
+    min-height: 600px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+#habilidades{
+    float: left;
+    background-color: aquamarine;
+    width: calc(30% - 20px);
+    min-height: 600px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.article{
+    color: teal;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid teal;
+    padding-bottom: 10px;
+}
+
